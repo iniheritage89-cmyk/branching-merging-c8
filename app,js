@@ -1,1 +1,2 @@
 console.log("testing branching and merging")
+console.log("this is for testing branching and merging in git");
